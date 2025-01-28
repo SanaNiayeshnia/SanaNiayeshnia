@@ -12,11 +12,6 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with a focus 
 ## 🌱 Currently Learning
 - Next.js
 
-## 🤝 Let's Connect
-
-- **LinkedIn:** [Sana Niayeshnia](https://www.linkedin.com/in/sana-niayeshnia)
-- **Email:** [niayeshnia1381@gmail.com](niayeshnia1381@gmail.com)
-
 ## 📊 GitHub Stats
 
 <div align="center">

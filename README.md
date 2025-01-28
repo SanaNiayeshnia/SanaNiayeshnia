@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with a focus 
 - **Frameworks & Libraries:** React, Redux, Context API, React Router, React Query, Axios, Bootstrap, Tailwind Css, Material UI,...
 - **Tools & Platforms:** Git, GitHub, npm, vite
 - **Others:** Responsive Design, RESTful APIs
-  <br/>
+  
   <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />

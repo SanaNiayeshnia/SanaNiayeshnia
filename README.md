@@ -5,8 +5,8 @@ Welcome to my GitHub profile! I am a passionate Front-End Developer with a knack
 ## 🛠 Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Redux, Bootstrap
-- **Tools & Platforms:** Git, GitHub, Webpack, npm
+- **Frameworks & Libraries:** React, Redux, Bootstrap, tailwindcss
+- **Tools & Platforms:** Git, GitHub, npm
 - **Others:** Responsive Design, RESTful APIs, Cross-browser Compatibility
 
 ## 🔭 Projects
@@ -21,16 +21,12 @@ An online store with a modern UI, featuring product listings, shopping cart func
 A fully functional blog platform where users can create, edit, and delete posts. Built with React and integrated with a RESTful API.
 
 ## 🌱 Currently Learning
-
-- TypeScript
 - Next.js
-- GraphQL
 
 ## 🤝 Let's Connect
 
-- **LinkedIn:** [Sana Niayeshnia](https://linkedin.com/in/sananiayeshnia)
-- **Email:** [sananiayeshnia@example.com](mailto:sananiayeshnia@example.com)
-- **GitHub:** [SanaNiayeshnia](https://github.com/SanaNiayeshnia)
+- **LinkedIn:** [Sana Niayeshnia](https://www.linkedin.com/in/sana-niayeshnia)
+- **Email:** [niayeshnia1381@gmail.com](niayeshnia1381@gmail.com)
 
 ## 📊 GitHub Stats
 
@@ -41,7 +37,7 @@ A fully functional blog platform where users can create, edit, and delete posts.
 
 ###
 
-<h3 align="left">🎡 Languages & Tools</h3>
+<h3 align="left">🪅 Languages & Tools</h3>
 
 ###
 
@@ -65,10 +61,9 @@ A fully functional blog platform where users can create, edit, and delete posts.
 
 ###
 
-<img src="https://raw.githubusercontent.com/sanaNiayeshnia/sanaNiayeshnia/output/snake.svg" alt="Snake animation" />
+<h3 align="left">🎧 Spotify Recently Played</h3>
 
 ###
-
 <div align="center">
   <a href="https://open.spotify.com/user/sqh880m0w3s8rz8wtw2pct9m4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=sqh880m0w3s8rz8wtw2pct9m4&count=5&unique=true" alt="Spotify recently played"  />

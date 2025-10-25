@@ -5,17 +5,16 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with a focus 
 ## 🛠 Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** React, Redux, Context API, React Router, React Query, Axios, Bootstrap, Tailwind Css, Material UI,...
+- **Frameworks & Libraries:** Next.js, React, Redux, Context API, React Router, React Query, Axios, Bootstrap, Tailwind Css, Material UI,...
 - **Tools & Platforms:** Git, GitHub, npm, vite
 - **Others:** Responsive Design, RESTful APIs
 
 ## 🌱 Currently Learning
-- Next.js
+- Typescript
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanaNiayeshnia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaNiayeshnia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 

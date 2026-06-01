@@ -2,15 +2,21 @@
 
 Welcome to my GitHub profile! I'm a passionate Front-End Developer with a focus on creating modern, responsive, and user-friendly web applications. I enjoy transforming ideas into reality using code, learning new technologies, and tackling challenges in the world of web development.
 
+## 👩‍💻 About Me
+
+- 🎯 Focused on building scalable and performant front-end applications
+- 🌍 Working with multilingual and responsive web systems
+- 🧠 Passionate about UI architecture, clean code, and UX details
+- 📚 Currently learning advanced Next.js patterns & performance optimization
+- 🚀 Open to collaboration on modern web projects
+
 ## 🛠 Skills & Technologies
 
-- **Languages:** HTML, CSS, JavaScript
-- **Frameworks & Libraries:** Next.js, React, Redux, Context API, React Router, React Query, Axios, Bootstrap, Tailwind Css, Material UI,...
+- **Languages:** HTML, CSS, JavaScript, TypeScript
+- **Frameworks & Libraries:** Next.js, React, Redux, Context API, React Router, React Query, Axios, Bootstrap, SASS, Tailwind CSS, Material UI,...
 - **Tools & Platforms:** Git, GitHub, npm, vite
 - **Others:** Responsive Design, RESTful APIs
 
-## 🌱 Currently Learning
-- Typescript
 
 ## 📊 GitHub Stats
 

@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with a focus 
 ## 🛠 Skills & Technologies
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks & Libraries:** Next.js, React, Redux, Context API, React Router, React Query, Axios, Bootstrap, SASS, Tailwind CSS, Material UI,...
+- **Frameworks & Libraries:** Next.js, React, Redux, Context API, React Router, React Query, Axios, Bootstrap, SASS, Tailwind CSS, Material UI, Shadcn UI, React-Hook-Form, Recharts, Leaflet, OpenLayers, ...
 - **Tools & Platforms:** Git, GitHub, npm, vite
 - **Others:** Responsive Design, RESTful APIs
 

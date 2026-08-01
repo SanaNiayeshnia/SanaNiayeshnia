@@ -17,13 +17,6 @@ Welcome to my GitHub profile! I'm a passionate Front-End Developer with a focus 
 - **Tools & Platforms:** Git, GitHub, npm, vite
 - **Others:** Responsive Design, RESTful APIs
 
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanaNiayeshnia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
 ## 🎧 Spotify Recently Played
 
 <div align="center">
